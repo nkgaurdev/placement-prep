@@ -25,4 +25,8 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/nkgaurdev/placement-prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nkgaurdev/placement-prep/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nkgaurdev/placement-prep/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
